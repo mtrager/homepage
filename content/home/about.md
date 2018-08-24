@@ -43,7 +43,7 @@ weight = 5
 <br>
 
 I am a post-doc researcher at the [Courant Institute of
-Mathematical Sciences](https://cims.nyu.edu/) at [NYU](https://www.nyu.edu/). I received my PhD at [École Normale
+Mathematical Sciences](https://cims.nyu.edu/) at [NYU](https://www.nyu.edu/). I received my PhD from [École Normale
 Supérieure](http://www.ens.fr/?lang=fr), under the supervision [Jean
 Ponce](http://www.di.ens.fr/~ponce/) and [Martial
 Hebert](https://www.ri.cmu.edu/person.html?person_id=109). I have a "Master 2" 
