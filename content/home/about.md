@@ -46,7 +46,7 @@ I am a post-doc researcher at the [Courant Institute of
 Mathematical Sciences](https://cims.nyu.edu/) at [NYU](https://www.nyu.edu/). I received my PhD at [École Normale
 Supérieure](http://www.ens.fr/?lang=fr), under the supervision [Jean
 Ponce](http://www.di.ens.fr/~ponce/) and [Martial
-Hebert](https://www.ri.cmu.edu/person.html?person_id=109). I have a Master 2
+Hebert](https://www.ri.cmu.edu/person.html?person_id=109). I have a "Master 2" 
 Degree in Mathematics, Machine Learning and Computer Vision
 ([MVA](http://www.math.ens-cachan.fr/version-francaise/formations/master-mva/))
 from [École Normale Supérieure de
