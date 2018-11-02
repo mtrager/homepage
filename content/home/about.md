@@ -56,7 +56,7 @@ Pisa](https://www.dm.unipi.it/index.html/), enrolled as a student of [Scuola
 Normale Superiore](http://en.sns.it/). My full CV is {{% staticref
 "files/cv.pdf" %}}here{{% /staticref %}}.
 
-My PhD thesis was on mathematics and 3D vision. I am now beginning to study some geometric problems related to neural networks.
+My PhD thesis was on mathematics and 3D vision. I am now working on geometric problems related to neural networks.
 
 
 
