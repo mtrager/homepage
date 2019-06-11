@@ -43,7 +43,9 @@ weight = 5
 <br>
 
 I am a post-doc researcher at the [Center for Data Science]
-(https://cds.nyu.edu/) and [Courant Institute](https://cims.nyu.edu/) at [NYU](https://www.nyu.edu/). I received my PhD from [École Normale
+(https://cds.nyu.edu/) and [Courant Institute](https://cims.nyu.edu/) at [NYU](https://www.nyu.edu/),
+working in [Joan Bruna](https://cims.nyu.edu/~bruna/)'s group. I received my
+PhD from [École Normale
 Supérieure](http://www.ens.fr/?lang=fr), under the supervision [Jean
 Ponce](http://www.di.ens.fr/~ponce/) and [Martial
 Hebert](https://www.ri.cmu.edu/person.html?person_id=109). I have a "Master 2" 
@@ -54,10 +56,14 @@ Cachan](http://www.ens-cachan.fr/version-anglaise/). I also have a
 Master's degree in Mathematics from the [University of
 Pisa](https://www.dm.unipi.it/index.html/), enrolled as a student of [Scuola
 Normale Superiore](http://en.sns.it/). My full CV is {{% staticref
-"files/cv.pdf" %}}here{{% /staticref %}}.
+"files/cv.pdf" %}}here{{% /staticref %}}. 
 
-My [PhD thesis](https://hal.inria.fr/tel-01856415v2) was on mathematics and 3D
-vision. I am now working on geometric problems related to neural networks.
+<!-- My PhD thesis (on geometric vision) is
+[here](https://hal.inria.fr/tel-01856415v2). -->
+
+I am broadly interested in the mathematical foundations of machine learning and
+computer vision. Currently I work on neural networks, particularly on the
+geometry of functional spaces and loss landscapes.
 
 
 
