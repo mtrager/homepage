@@ -48,7 +48,7 @@ working in [Joan Bruna](https://cims.nyu.edu/~bruna/)'s group. I received my
 PhD from [École Normale
 Supérieure](http://www.ens.fr/?lang=fr), under the supervision [Jean
 Ponce](http://www.di.ens.fr/~ponce/) and [Martial
-Hebert](https://www.ri.cmu.edu/person.html?person_id=109). I have a "Master 2" 
+Hebert](https://www.ri.cmu.edu/person.html?person_id=109). I have a "Master2" 
 Degree in Mathematics, Machine Learning and Computer Vision
 ([MVA](http://www.math.ens-cachan.fr/version-francaise/formations/master-mva/))
 from [École Normale Supérieure de
