@@ -50,7 +50,7 @@ enableGitInfo = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "ocean"
+  color_theme = "default"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -281,9 +281,14 @@ enableGitInfo = false
 #   url = "#projects"
 #   weight = 4
 
+[[menu.main]]
+  name = "Teaching"
+  url = "#teaching"
+  weight = 4
+
 # [[menu.main]]
-#   name = "Other stuff"
-#   url = "#other-stuff"
+#   name = "Stuff"
+#   url = "#stuff"
 #   weight = 5
 
 [[menu.main]]
