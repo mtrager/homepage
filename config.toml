@@ -53,7 +53,7 @@ pygmentscodefencesguesssyntax = true
     enableTwemoji = true
 
     # Custom CSS
-    custom_scss = ["css/custom.css"]
+    custom_css = ["css/custom.css"]
     # custom_scss = ["scss/custom.scss"]
 
     # Custom JS
