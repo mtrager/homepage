@@ -35,13 +35,13 @@ h4,
 h5,
 h6 {
   font-family: Lato, Helvetica, sans-serif;
-  font-weight: 500;
+  font-weight: 700;
   color: #000;
   margin: 6.4rem 0 3.2rem 0; }
 
 h1 {
-  font-size: 3.0rem;
-  line-height: 3.4rem; }
+  font-size: 3.2rem;
+  line-height: 3.6rem; }
   @media only screen and (max-width: 768px) {
     h1 {
       font-size: 3.0rem;
@@ -155,7 +155,7 @@ figure {
 .container {
   margin: 0 auto;
   max-width: 90.0rem;
-  width: 55%;
+  width: 100%;
   padding-left: 2.0rem;
   padding-right: 2.0rem; }
 
@@ -189,7 +189,7 @@ img.emoji {
   margin-top: 1.6rem;
   margin-bottom: 3.2rem; }
   .content article header {
-    margin-top: 2.4rem;
+    margin-top: 6.4rem;
     margin-bottom: 3.2rem; }
     .content article header h1 {
       font-size: 4.2rem;
@@ -362,15 +362,22 @@ img.emoji {
         margin-left: 1.0rem;
         margin-right: 1.0rem; }
     @media only screen and (max-width: 768px) {
+      .navigation .navigation-list .separator {
+        display: none; } }
+    @media only screen and (max-width: 768px) {
       .navigation .navigation-list .menu-separator {
         border-top: 2px solid #212121;
         margin: 0 8.0rem; }
         .navigation .navigation-list .menu-separator span {
           display: none; } }
+  .navigation #dark-mode-toggle {
+    margin: 1.7rem 0;
+    font-size: 2.4rem;
+    line-height: inherit; }
   .navigation #menu-toggle {
     display: none; }
     @media only screen and (max-width: 768px) {
-      .navigation #menu-toggle:checked + label {
+      .navigation #menu-toggle:checked + label > i {
         color: #E0E0E0; }
       .navigation #menu-toggle:checked + label + ul {
         visibility: visible;
@@ -381,13 +388,15 @@ img.emoji {
     @media only screen and (max-width: 768px) {
       .navigation .menu-button {
         display: block;
+        margin: 1.8rem 0;
         font-size: 2.4rem;
-        font-weight: 400;
-        line-height: 6.0rem;
-        color: #212121;
-        cursor: pointer; }
-        .navigation .menu-button:hover, .navigation .menu-button:focus {
-          color: #1565c0; } }
+        font-weight: 400; } }
+  .navigation i {
+    color: #212121;
+    cursor: pointer; }
+    .navigation i:hover, .navigation i:focus {
+      color: #1565c0; }
+
 .pagination {
   margin-top: 6.0rem;
   text-align: center;
@@ -411,8 +420,7 @@ img.emoji {
   width: 100%;
   text-align: center;
   line-height: 2.0rem;
-  margin-bottom: 1.0rem;
-  font-size: 80%; }
+  margin-bottom: 1.0rem; }
   .footer a {
     color: #1565c0; }
 

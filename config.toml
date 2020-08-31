@@ -18,8 +18,8 @@ pygmentscodefencesguesssyntax = true
 [params]
     author = "MT"
     description = "Matthew Trager's personal website"
-    keywords = "personal"
-    info = ""
+    keywords = "blog,developer,personal"
+    info = "Full Stack DevOps and Magician"
     avatarurl = "images/avatar.jpg"
     #gravatar = "john.doe@example.com"
     # footercontent = "Enter a text here."
@@ -59,10 +59,10 @@ pygmentscodefencesguesssyntax = true
     custom_js = []
 
 # If you want to use fathom(https://usefathom.com) for analytics, add this section
-# [params.fathomAnalytics]
-#     siteID = "ABCDE"
-#     # Default value is cdn.usefathom.com, overwrite this if you are self-hosting
-#     serverURL = "analytics.example.com"
+[params.fathomAnalytics]
+    siteID = "ABCDE"
+    # Default value is cdn.usefathom.com, overwrite this if you are self-hosting
+    serverURL = "analytics.example.com"
 
 [taxonomies]
   category = "categories"
