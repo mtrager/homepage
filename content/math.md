@@ -1,6 +1,0 @@
-+++
-title = ""
-+++
-
-
-I like math
