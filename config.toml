@@ -54,6 +54,7 @@ pygmentscodefencesguesssyntax = true
 
     # Custom CSS
     custom_css = []
+    custom_scss = ["scss/custom.scss"]
 
     # Custom JS
     custom_js = []
